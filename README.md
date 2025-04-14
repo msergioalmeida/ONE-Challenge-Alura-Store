@@ -47,5 +47,12 @@ Gráfico da avaliação média e faturamento por loja:
 
 ## Instruções para executar o notebook
 
+A execucão deve obedecer a sequência dos códigos no notebook.
+
+Depois da criação dos DataFrames, a etapa seguinte  cria um dicionário com as informações que foram geradas.
+
+E assim sucessivamente, esse dicionário é atualizado com as novas informações geradas em cada etapa subsequente.
+
+Desta forma, o dicionário mantém todas as informações consolidadas necessárias para gerar os gráficos para as análises, feitas logo em seguida.
 
 
