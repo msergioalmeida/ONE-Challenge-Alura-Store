@@ -24,7 +24,19 @@ Esses arquivos foram carregados com Pandas para seus respectivos DataFrames para
 
 ## Exemplos de gráficos e insights obtidos
 
-<img src="/tela1.png"> 
+
+
+<img src="/Organização dos arquivos e heads.png"> 
+Gráfico de Faturamento total por loja:
+<img src="/Faturamento por loja.png"> 
+Gráfico de Faturamento total por loja:
+<img src="/Avaliações por loja.png"> 
+Gráfico de Faturamento total por loja:
+<img src="/Faturamento médio x Frete médio por loja.png"> 
+
+<img src="/Avaliação média e faturamento por loja.png"> 
+
+
 
 ## Instruções para executar o notebook
 
