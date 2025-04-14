@@ -22,11 +22,11 @@ Nesse projeto foi utilizado um notebook no Google Colab.
 Foram fornecidos 4 url's do github com arquivos .csv, cada um contendo os dados de uma loja.
 Esses arquivos foram carregados com Pandas para seus respectivos DataFrames para serem usados nos códigos Python das análises.
 
-## Exemplos de gráficos e insights obtidos
-
 Criação dos DataFrames no notebook:
 
 <img src="assets/Organizacao dos arquivos e heads.png"> 
+
+## Exemplos de gráficos e insights obtidos
 
 Gráfico do faturamento total por loja:
 
@@ -47,5 +47,5 @@ Gráfico da avaliação média e faturamento por loja:
 
 ## Instruções para executar o notebook
 
-## Instruções para executar o notebook
+
 
