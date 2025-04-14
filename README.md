@@ -34,8 +34,7 @@ Gráfico de Faturamento total por loja:
 Gráfico de Faturamento total por loja:
 <img src="assets/Faturamento médio x Frete médio por loja.png"> 
 
-<img src="assets/Avaliacao media e faturamento por loja.png"> 
-
+<img src="assets/Avaliacao media e faturamento por loja.png">
 
 
 ## Instruções para executar o notebook
