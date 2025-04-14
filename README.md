@@ -17,7 +17,7 @@ Após as análises, será feito um texto explicando qual loja o Senhor João dev
 
 ## Estrutura do projeto e organização dos arquivos
 
-Nesse projeto foi utilizado um caderno no Google Colab.
+Nesse projeto foi utilizado um notebook no Google Colab.
 
 Foram fornecidos 4 url's do github com arquivos .csv, cada um contendo os dados de uma loja.
 Esses arquivos foram carregados com Pandas para seus respectivos DataFrames para serem usados nos códigos Python das análises.
