@@ -24,18 +24,28 @@ Esses arquivos foram carregados com Pandas para seus respectivos DataFrames para
 
 ## Exemplos de gráficos e insights obtidos
 
+Criação dos DataFrames no notebook:
 
+<img src="assets/Organizacao dos arquivos e heads.png"> 
 
-<img src="assets/Organização dos arquivos e heads.png"> 
-Gráfico de Faturamento total por loja:
+Gráfico do faturamento total por loja:
+
 <img src="assets/Faturamento por loja.png"> 
-Gráfico de Faturamento total por loja:
-<img src="assets/Avaliações por loja.png"> 
-Gráfico de Faturamento total por loja:
-<img src="assets/Faturamento médio x Frete médio por loja.png"> 
+
+Gráfico da média das avaliações:
+
+<img src="assets/Avaliacoes por loja.png"> 
+
+Gráfico do faturamento médio e frete médio por loja:
+
+<img src="assets/Faturamento medio x Frete medio por loja.png"> 
+
+Gráfico da avaliação média e faturamento por loja:
 
 <img src="assets/Avaliacao media e faturamento por loja.png">
 
+
+## Instruções para executar o notebook
 
 ## Instruções para executar o notebook
 
