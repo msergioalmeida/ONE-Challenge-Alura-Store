@@ -26,13 +26,13 @@ Esses arquivos foram carregados com Pandas para seus respectivos DataFrames para
 
 
 
-<img src="/Organização dos arquivos e heads.png"> 
+<img src="assets/Organização dos arquivos e heads.png"> 
 Gráfico de Faturamento total por loja:
-<img src="/Faturamento por loja.png"> 
+<img src="assets/Faturamento por loja.png"> 
 Gráfico de Faturamento total por loja:
-<img src="/Avaliações por loja.png"> 
+<img src="assets/Avaliações por loja.png"> 
 Gráfico de Faturamento total por loja:
-<img src="/Faturamento médio x Frete médio por loja.png"> 
+<img src="assets/Faturamento médio x Frete médio por loja.png"> 
 
 <img src="assets/Avaliacao media e faturamento por loja.png"> 
 
