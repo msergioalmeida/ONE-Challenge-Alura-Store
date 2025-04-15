@@ -47,7 +47,7 @@ Gráfico da avaliação média e faturamento por loja:
 
 ## Instruções para executar o notebook
 
-A execucão deve obedecer a sequência dos códigos no notebook.
+A execucão deve obedecer a sequência das células no notebook.
 
 Depois da criação dos DataFrames, a etapa seguinte  cria um dicionário com as informações que foram geradas.
 
